@@ -10,7 +10,7 @@
 // see also package.json and https://github.com/thlorenz/browserify-swap
 exports.options = {
     with_tiles: true,
-    environment: "development",
+    environment: "production",
     // use this if you serve the web UI from a different server like live-server and the GH server runs on the standard port
     // routing: {host: 'http://localhost:8989', api_key: ''},
     routing: {host: '', api_key: ''},
