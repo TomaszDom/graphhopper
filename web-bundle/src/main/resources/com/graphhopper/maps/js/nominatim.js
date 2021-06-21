@@ -1,5 +1,5 @@
-var nominatimURL = "https://nominatim.openstreetmap.org/search";
-var nominatimReverseURL = "https://nominatim.openstreetmap.org/reverse";
+var nominatimURL = "https://geocoder.cenagis.edu.pl/nominatim/search";
+var nominatimReverseURL = "https://geocoder.cenagis.edu.pl/nominatim/reverse";
 
 var bounds;
 var mathTools = require('./tools/math.js');
